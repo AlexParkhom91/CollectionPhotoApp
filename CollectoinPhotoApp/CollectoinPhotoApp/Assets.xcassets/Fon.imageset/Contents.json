@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "2021Nature___Mountains_Aurora_borealis_skies_over_snow-capped_mountains_153434_.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2021Nature___Mountains_Aurora_borealis_skies_over_snow-capped_mountains_153434_-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "2021Nature___Mountains_Aurora_borealis_skies_over_snow-capped_mountains_153434_-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
